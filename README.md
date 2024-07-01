@@ -1,3 +1,3 @@
-## Exercism
+## Code Exercices
 
-This repo is for practicing purposes base on [exercism.org](https://exercism.org/) exercices
+This repo is for coding practicing purposes base on [exercism.org](https://exercism.org/) and [leetcode.com](https://leetcode.com/) exercices
